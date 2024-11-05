@@ -1,1 +1,58 @@
 # kimngan1.github.io
+<html lang="vh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=devcie-width, initial-scale=1.0">
+	<link rel="stylesheet" href="web.css">
+<title>Trang web baby three</title>
+</head>
+
+<body>
+	<header>
+	<div class="a">
+		<img src="../kimngan/shopshin.jpg" alt="logo" width="30">
+		</div>
+		<nav class="b">
+			<ul>
+					<li><a href="#">Trang chủ</a></li>
+					<li><a href="#">Giới Thiệu</a></li>
+					<li><a href="#">Sản phẩm</a></li>
+					<li><a href="#">Liên hệ</a></li>
+			</ul>
+		</nav>
+	</header>
+<div class="c">
+		<div class="col1">
+			<div class="timkiem">
+			<from action="/search" method="GET">
+	<input type="text" name="query" placeholder="Tìm kiếm bài viết....">
+	<button type="submit">Tìm kiếm</button>
+		</from>
+		</div>
+			<h2>BÀI VIẾT HIỆN TẠI</h2>
+			<div class="post">
+				<img src="../kimngan/tho.jpg" alt="thỏ hồng" width="50% ">
+				<p>thỏ hồng</p>
+		</div>
+			<div class="post">
+				<img src="../kimngan/heo.jpg" alt="heo hồng" width="50">
+				<p>heo hồng</p>
+			</div>
+			<div class="post">
+				<img src="../kimngan/ho.jpg" alt="hổ" width="50">
+				<p>hổ</p>
+			</div>
+			<div class="post">
+				<img src="../kimngan/khunglong.jpg" alt="khủng long" width="50">
+				<p>khủng long</p>
+			</div>
+			</div>
+			<div class="col2">
+				<img src="../kimngan/shopshin.jpg" alt="shinshop" width="120">
+				<p>shopshin</p>
+	<footer>
+		<p><b>Copyright Lê KIm Ngân</b></p>
+		<p><b>Lớp QT22TC3.6</b></p>
+</footer>
+</body>
+</html>
