@@ -1,4 +1,5 @@
 # kimngan1.github.io
+<!doctype html>
 <html lang="vi">
  <head>
 <meta charset="UTF-8">
@@ -35,7 +36,7 @@
 	<img src="tho.jpg" alt="Bài viết 1" width="50%">
 	<p>Baby three thỏ hồng giá 1.200.000 VNĐ </p>
 	</div>
-<div class="post"> <img src="../kimngan/heo.jpg" alt="Bài viết 2" width="50%"> <p>Baby three heo giá 800.000 VNĐ</p>
+<div class="post"> <img src="heo.jpg" alt="Bài viết 2" width="50%"> <p>Baby three heo giá 800.000 VNĐ</p>
 	</div>
 <div class="post">
 	<img src="ho.jpg" alt="Bài viết 3" width="50%"> <p>Baby three hổ giá 450.000 VNĐ</p>
