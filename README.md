@@ -1,17 +1,16 @@
 # kimngan1.github.io
-<!doctype html>
 <html lang="vi">
  <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Trang Web</title>
-	 <link rel="stylesheet" href="file:///D:/kng.css"
+	 <link rel="stylesheet" href="kng.css">
 	 <link href="kng.css" rel="stylesheet" type="text/css">
 	 </head>
 ▼<body>
 <header>
 <div class="logo">
-<img src="img/logo.png" alt="Logo" width="100">
+<img src="shopshin.jpg" alt="Logo" width="100">
 </div>
 <nav class="menu">
 <ul>
@@ -36,15 +35,19 @@
 	<img src="tho.jpg" alt="Bài viết 1" width="50%">
 	<p>Baby three thỏ hồng giá 1.200.000 VNĐ </p>
 	</div>
-<div class="post"> <img src="kimngan/heo.jpg"alt="Bài viết 2" width="50%"> <p>Baby three heo giá 800.000 VNĐ</p>
+<div class="post"> <img src="../kimngan/heo.jpg" alt="Bài viết 2" width="50%"> <p>Baby three heo giá 800.000 VNĐ</p>
 	</div>
 <div class="post">
-	<img src="kimngan/ho.jpg"alt="Bài viết 3" width="50%"> <p>Baby three hổ giá 450.000 VNĐ</p>
+	<img src="ho.jpg" alt="Bài viết 3" width="50%"> <p>Baby three hổ giá 450.000 VNĐ</p>
 	</div>
-<div class="col2"> <img src="kimngan/shopshin.jpg" alt="Hình ảnh bài viết" width="100%"> <p>Chào mừng bạn đến với SHOPSHIN
+<div class="col2"> <img src="shopshin.jpg" alt="Hình ảnh bài viết" width="70"> 
+	<p>Chào mừng bạn đến với SHOPSHIN
 	Tại đây chúng tôi không chỉ bán baby three mà còn bán những túi mù, sản phẩm cute dễ thương khác.</p>
 	</div>
 	</div>
 	<footer>
 		<p>Lê Kim Ngân</p>
 <p>Lớp QT22TC3.6</p>
+		</footer>
+</body>
+</html>
